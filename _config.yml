@@ -5,7 +5,7 @@ title:               clog
 tagline:             'a coding log.'
 description:         '42 is not the answer.'
 url:                 'http://mbartelsm.github.io'
-baseurl:             '/'
+baseurl:             ''
 
 # About/contact
 author:
