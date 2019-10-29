@@ -100,7 +100,7 @@ body {
 
 /* Links*/
 a, .text-title a {
-  color: #5a65bb;
+  color: #a26a84;
   text-decoration: none;
 }
 
@@ -175,7 +175,7 @@ hr {
 /* Search Highlihting*/
 mark {
   color: white;
-  background-color: #5a65bb;
+  background-color: #a26a84;
 }
 
 /* Quotes*/
@@ -255,7 +255,7 @@ tbody tr:nth-child(odd) th {
 }
 
 .masthead-title a {
-  color: #5a65bb;
+  color: #a26a84;
 }
 
 .masthead-title small {
@@ -344,7 +344,7 @@ h3.masthead-title {
 
 /* Sidebar content*/
 .sidebar {
-  background-color: #5a65bb;
+  background-color: #a26a84;
 }
 
 .sidebar a {

@@ -2,8 +2,8 @@
 
 # Setup
 title:               clog
-tagline:             'a coding log'
-description:         'Coding related things.'
+tagline:             'a coding log.'
+description:         '42 is not the answer.'
 url:                 'http://mbartelsm.github.io'
 baseurl:             '/'
 
