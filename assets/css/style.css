@@ -1,12 +1,10 @@
 /*
   Common Variables
-
   Feel free to change!
 */
 /* FONTS */
 /*
   COLOR.
-
   Make sure to leave color-scheme in config file empty for granular control
 */
 /* Ed: the minimal edition theme.
@@ -42,7 +40,7 @@ body {
 }
 
 html {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: "Roboto", "Franklin Gothic Medium", Tahoma, sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -102,7 +100,7 @@ body {
 
 /* Links*/
 a, .text-title a {
-  color: #841212;
+  color: #5a65bb;
   text-decoration: none;
 }
 
@@ -114,7 +112,7 @@ a:focus {
 
 /* Headings*/
 h1, h2, h3, h4, h5, h6 {
-  font-family: sans-serif;
+  font-family: "Roboto", "Franklin Gothic Medium", Tahoma, sans-serif;
   margin-bottom: .5rem;
   font-weight: 300;
   color: #404040;
@@ -177,7 +175,7 @@ hr {
 /* Search Highlihting*/
 mark {
   color: white;
-  background-color: #841212;
+  background-color: #5a65bb;
 }
 
 /* Quotes*/
@@ -257,20 +255,20 @@ tbody tr:nth-child(odd) th {
 }
 
 .masthead-title a {
-  color: #841212;
+  color: #5a65bb;
 }
 
 .masthead-title small {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: "Roboto", "Franklin Gothic Medium", Tahoma, sans-serif;
   font-size: .88rem;
   font-weight: 300;
   color: #454545;
   letter-spacing: .05rem;
-  font-family: sans-serif;
+  font-family: "Roboto", "Franklin Gothic Medium", Tahoma, sans-serif;
 }
 
 h3.masthead-title {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: "Roboto", "Franklin Gothic Medium", Tahoma, sans-serif;
   font-size: 1.8rem;
   margin-top: 2px;
 }
@@ -346,7 +344,7 @@ h3.masthead-title {
 
 /* Sidebar content*/
 .sidebar {
-  background-color: #841212;
+  background-color: #5a65bb;
 }
 
 .sidebar a {
