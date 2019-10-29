@@ -852,7 +852,7 @@ li.prose-indent {
 
 /* Error */
 .highlight .k {
-  color: #b6b3eb;
+  color: #bd829d;
 }
 
 /* Keyword */
@@ -935,12 +935,12 @@ li.prose-indent {
 
 /* Generic.Subheading */
 .highlight .kc {
-  color: #b6b3eb;
+  color: #bd829d;
 }
 
 /* Keyword.Constant */
 .highlight .kd {
-  color: #b6b3eb;
+  color: #bd829d;
 }
 
 /* Keyword.Declaration */
@@ -950,12 +950,12 @@ li.prose-indent {
 
 /* Keyword.Namespace */
 .highlight .kp {
-  color: #b6b3eb;
+  color: #bd829d;
 }
 
 /* Keyword.Pseudo */
 .highlight .kr {
-  color: #b6b3eb;
+  color: #bd829d;
 }
 
 /* Keyword.Reserved */
